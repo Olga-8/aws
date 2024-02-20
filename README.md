@@ -29,3 +29,9 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+---
+
+https://bucketawsapp.s3.eu-north-1.amazonaws.com/index.html
+
+https://cdk-hnb659fds-assets-767397854212-eu-west-1.s3.eu-west-1.amazonaws.com/a4ef31add828d8112971f6fbefdeb68360ccff1b7885fb27cc9ad4074ebc15c9.json
